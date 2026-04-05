@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="syEOLBhVAVta10Gxd06x">
-    <mxGraphModel dx="670" dy="4182" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.75" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="1436" dy="4561" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.75" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
             <mxPoint x="849.62" y="-3803" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBB4tk9cv-uJ-knDmhPw-607" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="&lt;div&gt;1/8M-F Elbow&lt;/div&gt;1/8M Elbow - 6mm Comp" vertex="1">
+        <mxCell id="NBB4tk9cv-uJ-knDmhPw-607" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="&lt;div&gt;&lt;strike&gt;1/8M-F Elbow&lt;/strike&gt;&lt;/div&gt;&lt;strike&gt;1/8M Elbow - 6mm Comp&lt;/strike&gt;" vertex="1">
           <mxGeometry height="50" width="125" x="750.25" y="-3787" as="geometry" />
         </mxCell>
         <mxCell id="NBB4tk9cv-uJ-knDmhPw-625" edge="1" parent="1" source="NBB4tk9cv-uJ-knDmhPw-611" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=2;jumpStyle=gap;" target="NBB4tk9cv-uJ-knDmhPw-620" value="">
@@ -264,8 +264,8 @@
         <mxCell id="PauiPwF9nESQ2RyEQ7vl-63" edge="1" parent="1" source="lfwQqoi3UzEGxcHh9_46-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=2;" target="NBB4tk9cv-uJ-knDmhPw-592">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PauiPwF9nESQ2RyEQ7vl-61" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;flipV=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1/8F-M Elbow&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1/8F - 6mm PF&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6mm OD HDPE Tube&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6mm PF - 1/8M Elbow&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="125" x="400.25" y="-3788" as="geometry" />
+        <mxCell id="PauiPwF9nESQ2RyEQ7vl-61" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;flipV=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1/8F-M Elbow&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1/8F - 6mm PF&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6mm OD HDPE Tube&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6mm PF-PF Elbow&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6mm HDPE Tube&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6mm PF - 6mm Comp&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;strike&gt;6mm PF - 1/8M Elbow&lt;/strike&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="125" x="400" y="-3800" as="geometry" />
         </mxCell>
         <mxCell id="lfwQqoi3UzEGxcHh9_46-30" edge="1" parent="1" source="lfwQqoi3UzEGxcHh9_46-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#66B2FF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="lfwQqoi3UzEGxcHh9_46-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -525,7 +525,7 @@
         <mxCell id="AC0kg4vTG6k_bkizOXzH-31" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="75" width="125" x="576" y="-3800" as="geometry" />
         </mxCell>
-        <mxCell id="NBB4tk9cv-uJ-knDmhPw-592" parent="AC0kg4vTG6k_bkizOXzH-31" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="Check Valve&lt;div&gt;(CV1)&lt;/div&gt;" vertex="1">
+        <mxCell id="NBB4tk9cv-uJ-knDmhPw-592" parent="AC0kg4vTG6k_bkizOXzH-31" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;strike&gt;Check Valve&lt;/strike&gt;&lt;div&gt;&lt;strike&gt;(CV1)&lt;/strike&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="125" as="geometry" />
         </mxCell>
         <mxCell id="NBB4tk9cv-uJ-knDmhPw-594" parent="AC0kg4vTG6k_bkizOXzH-31" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;rotation=-90;" value="1/8F" vertex="1">
