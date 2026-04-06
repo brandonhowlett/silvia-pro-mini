@@ -1291,7 +1291,7 @@
       <root>
         <mxCell id="c5M_H41DmFZ17fmyltw7-0" />
         <mxCell id="c5M_H41DmFZ17fmyltw7-1" parent="c5M_H41DmFZ17fmyltw7-0" />
-        <mxCell id="c5M_H41DmFZ17fmyltw7-2" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;endArrow=classic;endFill=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="c5M_H41DmFZ17fmyltw7-229" value="">
+        <mxCell id="c5M_H41DmFZ17fmyltw7-2" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;endArrow=classic;endFill=1;dashed=1;" target="c5M_H41DmFZ17fmyltw7-39" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-3" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#CC0066;" target="c5M_H41DmFZ17fmyltw7-100" value="">
@@ -1422,13 +1422,10 @@
         <mxCell id="c5M_H41DmFZ17fmyltw7-34" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;strokeWidth=2;" target="c5M_H41DmFZ17fmyltw7-33" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c5M_H41DmFZ17fmyltw7-35" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="c5M_H41DmFZ17fmyltw7-108" value="">
+        <mxCell id="c5M_H41DmFZ17fmyltw7-35" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="HcxCnSg_TO4dHbEi9T56-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="c5M_H41DmFZ17fmyltw7-108" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="813.25" y="-2975" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="c5M_H41DmFZ17fmyltw7-36" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="&lt;div&gt;1/8M Elbow - 6mm Comp&lt;/div&gt;&lt;div&gt;6mm Copper Tube&lt;/div&gt;&lt;div&gt;Brazed - 1/4F&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="125" x="750.25" y="-2912.5" as="geometry" />
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-37" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#CC0066;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="c5M_H41DmFZ17fmyltw7-152" value="">
           <mxGeometry relative="1" as="geometry">
@@ -1440,6 +1437,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-38" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-229" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;endArrow=cross;endFill=0;" target="c5M_H41DmFZ17fmyltw7-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HcxCnSg_TO4dHbEi9T56-9" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="c5M_H41DmFZ17fmyltw7-229" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-39" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="&lt;div&gt;1/8M-M Elbow&lt;/div&gt;&lt;div&gt;1/8F-F Capillary Tube&lt;/div&gt;" vertex="1">
@@ -1651,7 +1651,7 @@
           <mxGeometry height="10" width="23" x="51" y="0.5" as="geometry" />
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-107" connectable="0" parent="c5M_H41DmFZ17fmyltw7-1" style="group" value="" vertex="1">
-          <mxGeometry height="75" width="125" x="750.25" y="-2799.5" as="geometry" />
+          <mxGeometry height="75" width="125" x="750.25" y="-2675" as="geometry" />
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-108" parent="c5M_H41DmFZ17fmyltw7-107" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="Steam Flow&lt;div&gt;Control Valve&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="125" as="geometry" />
@@ -1737,7 +1737,7 @@
         <mxCell id="c5M_H41DmFZ17fmyltw7-135" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF8000;" target="c5M_H41DmFZ17fmyltw7-138" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c5M_H41DmFZ17fmyltw7-136" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;flipH=1;legacyAnchorPoints=0;" value="1/4M - 1/8F Reducer&lt;div&gt;1/8M-F Elbow&lt;/div&gt;" vertex="1">
+        <mxCell id="c5M_H41DmFZ17fmyltw7-136" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;flipH=1;legacyAnchorPoints=0;" value="1/4M - 1/8F Reducing Bushing&lt;div&gt;1/8M-F Elbow&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="125" x="575" y="-3037.5" as="geometry" />
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-137" connectable="0" parent="c5M_H41DmFZ17fmyltw7-1" style="group" value="" vertex="1">
@@ -1757,13 +1757,10 @@
             <mxPoint x="950.25" y="-2350.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c5M_H41DmFZ17fmyltw7-147" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF8000;" target="c5M_H41DmFZ17fmyltw7-174" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="c5M_H41DmFZ17fmyltw7-150" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="HcxCnSg_TO4dHbEi9T56-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF8000;" target="c5M_H41DmFZ17fmyltw7-172" value="">
+        <mxCell id="c5M_H41DmFZ17fmyltw7-150" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF8000;" target="c5M_H41DmFZ17fmyltw7-174" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="462.75" y="-2600" as="sourcePoint" />
-            <mxPoint x="863.25" y="-2425.5" as="targetPoint" />
+            <mxPoint x="637.5" y="-2600" as="sourcePoint" />
+            <mxPoint x="637.5" y="-2537" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-152" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="&lt;div&gt;1/8M-F Elbow&lt;/div&gt;" vertex="1">
@@ -1784,19 +1781,13 @@
         <mxCell id="c5M_H41DmFZ17fmyltw7-155" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="9mm Silicone Tube" vertex="1">
           <mxGeometry height="50" width="125" x="925.25" y="-2662.5" as="geometry" />
         </mxCell>
-        <mxCell id="HcxCnSg_TO4dHbEi9T56-4" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF8000;" target="HcxCnSg_TO4dHbEi9T56-1" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="c5M_H41DmFZ17fmyltw7-157" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;flipH=1;legacyAnchorPoints=0;" value="&lt;div&gt;1/8M-M Nipple ~50mm&lt;/div&gt;" vertex="1">
+        <mxCell id="c5M_H41DmFZ17fmyltw7-157" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;flipH=1;legacyAnchorPoints=0;" value="&lt;div&gt;1/8M-M Nipple 50mm&lt;/div&gt;&lt;div&gt;1/8F-M Elbow&lt;/div&gt;&lt;div&gt;1/8F-M Elbow&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="125" x="575" y="-2787.5" as="geometry" />
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-159" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF8000;" target="c5M_H41DmFZ17fmyltw7-157">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="637.75" y="-2724.5" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="c5M_H41DmFZ17fmyltw7-172" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="&lt;div&gt;1/8F-M Elbow&lt;/div&gt;1/8M-M &lt;b&gt;NPT&lt;/b&gt;&amp;nbsp;Hex Nipple&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;or&lt;/font&gt;&lt;br&gt;&lt;div&gt;Hex Nipple&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="125" x="575" y="-2537" as="geometry" />
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-173" connectable="0" parent="c5M_H41DmFZ17fmyltw7-1" style="group" value="" vertex="1">
           <mxGeometry height="75" width="125" x="575" y="-2424.5" as="geometry" />
@@ -1810,7 +1801,7 @@
         <mxCell id="c5M_H41DmFZ17fmyltw7-176" parent="c5M_H41DmFZ17fmyltw7-173" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="1/8F" vertex="1">
           <mxGeometry height="8" width="25" x="50" y="5" as="geometry" />
         </mxCell>
-        <mxCell id="c5M_H41DmFZ17fmyltw7-177" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="1/8M &lt;b&gt;NPT &lt;/b&gt;- M8x1F&lt;div&gt;Adapter&lt;/div&gt;" vertex="1">
+        <mxCell id="c5M_H41DmFZ17fmyltw7-177" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;flipH=1;legacyAnchorPoints=0;" value="1/8M - M8x1F" vertex="1">
           <mxGeometry height="50" width="125" x="575" y="-2287.5" as="geometry" />
         </mxCell>
         <mxCell id="c5M_H41DmFZ17fmyltw7-178" parent="c5M_H41DmFZ17fmyltw7-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=3;fillColor=#FF800033;fontSize=14;" value="Hot Water Wand" vertex="1">
@@ -1985,17 +1976,23 @@
         <mxCell id="c5M_H41DmFZ17fmyltw7-234" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#66B2FF;" target="c5M_H41DmFZ17fmyltw7-122" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HcxCnSg_TO4dHbEi9T56-0" connectable="0" parent="c5M_H41DmFZ17fmyltw7-1" style="group;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="75" width="125" x="575" y="-2675" as="geometry" />
+        <mxCell id="HcxCnSg_TO4dHbEi9T56-5" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="c5M_H41DmFZ17fmyltw7-36" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="813" y="-2975" as="sourcePoint" />
+            <mxPoint x="813" y="-2799" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="HcxCnSg_TO4dHbEi9T56-1" parent="HcxCnSg_TO4dHbEi9T56-0" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=2;" value="Elbow&lt;div&gt;Needle Valve&lt;/div&gt;" vertex="1">
-          <mxGeometry height="75" width="125" as="geometry" />
+        <mxCell id="c5M_H41DmFZ17fmyltw7-36" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="&lt;div&gt;1/8M Elbow - 6mm Comp&lt;/div&gt;&lt;div&gt;&lt;div&gt;6mm - 1/4F Brazed Copper Tube&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;or&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1/8M-M Elbow&lt;/div&gt;&lt;div&gt;1/8F - 1/4F Brazed Copper Tube&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="125" x="750" y="-2912.5" as="geometry" />
         </mxCell>
-        <mxCell id="HcxCnSg_TO4dHbEi9T56-2" parent="HcxCnSg_TO4dHbEi9T56-0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;rotation=-90;" value="1/8F" vertex="1">
-          <mxGeometry height="10" width="23.4375" x="107.5675" y="32.5" as="geometry" />
+        <mxCell id="HcxCnSg_TO4dHbEi9T56-7" edge="1" parent="c5M_H41DmFZ17fmyltw7-1" source="c5M_H41DmFZ17fmyltw7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="HcxCnSg_TO4dHbEi9T56-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="813" y="-2862" as="sourcePoint" />
+            <mxPoint x="813" y="-2675" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="HcxCnSg_TO4dHbEi9T56-3" parent="HcxCnSg_TO4dHbEi9T56-0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="1/8M" vertex="1">
-          <mxGeometry height="10" width="25.9375" x="49.525000000000006" y="64" as="geometry" />
+        <mxCell id="HcxCnSg_TO4dHbEi9T56-6" parent="c5M_H41DmFZ17fmyltw7-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=10;verticalAlign=middle;align=center;html=1;fontSize=8;" value="&lt;div&gt;1/4M-F Elbow&lt;/div&gt;&lt;div&gt;Copper Washer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="125" x="750" y="-2787.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
